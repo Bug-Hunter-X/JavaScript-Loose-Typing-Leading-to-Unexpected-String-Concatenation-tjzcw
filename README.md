@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in JavaScript stemming from its dynamic typing system. The `bug.js` file showcases a function that unintentionally performs string concatenation due to the loose typing of JavaScript. The `bugSolution.js` file offers solutions to mitigate this issue.
